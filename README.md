@@ -54,12 +54,22 @@ To get started with the LLM-Based HR Process Optimization Application, follow th
 3. Launch the application and follow the setup instructions to integrate with your existing HR systems.
 4. Begin optimizing your HR processes and enjoy the benefits of improved efficiency and decision-making.
 
-## Contribution Guidelines
+   
+## About me
 
-We welcome contributions from the community to enhance and expand the functionality of the LLM-Based HR Process Optimization Application. To contribute, please follow the guidelines outlined in CONTRIBUTING.md.
+**Piyush Pathak**
 
-## License
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
 
-The LLM-Based HR Process Optimization Application is open-source software licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the software in compliance with the terms specified in the license.
+[**GITHUB**](https://github.com/piyushpathak03)
 
----
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
+
