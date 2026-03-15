@@ -1,4 +1,4 @@
-# LLM-Based HR Process Optimization Application
+# LLM-Based Human Resource Process Optimization Application
 
 ![HR Process Optimization](homepage_image.png)
 ![HR Process Optimization](loginpage_image.png)
